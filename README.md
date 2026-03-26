@@ -28,10 +28,6 @@ DearBUP is a specialized blogging and social networking platform designed exclus
 **Project Brand Name:** DearBUP
 **Tagline:** Feel. Write. Share.
 
-**Brand Logo:**
-
-<img src="https://i.ibb.co/3pS7157/dearbup-logo.png" alt="DearBUP Logo" width="150"/>
-
 **Visual Theme:**
 * **Aesthetic Goal:** To create a warm, inviting, and community-centric digital space that feels tactile, accessible, and supports emotional expression through text and media (e.g., integrated music links).
 * **Palette:** This project utilizes the special, soft, peach-to-pink gradient colors from the logo, ranging from a soft pink (#e06a72) and a deep rose (#d65d64) to a pale warm beige (#e0c0ac). These colors are used for backgrounds, card headers, and call-to-action buttons.
